@@ -121,8 +121,7 @@ Today that curiosity lives in **Bitcoin**, **Nostr**, and **free software** — 
 <p align="left">
   <a href="https://github.com/psam21"><img src="https://img.shields.io/badge/GitHub-psam21-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://nostr.co.in"><img src="https://img.shields.io/badge/Nostr-nostr.co.in-F7931A?style=for-the-badge&logo=nostr&logoColor=white" /></a>
-  <!-- Add your real Nostr npub, X/Twitter, LinkedIn, or website below -->
-  <!-- <a href="https://primal.net/p/<npub>"><img src="https://img.shields.io/badge/Primal-F7931A?style=for-the-badge&logo=nostr&logoColor=white" /></a> -->
+  <a href="https://primal.net/p/npub1sjtntkr698y6cpy42cu4lxvpc46rlw463u2j6a7ltuhxjryecxjs4xfet8"><img src="https://img.shields.io/badge/Primal-npub1sjt...xfet8-F7931A?style=for-the-badge&logo=nostr&logoColor=white" /></a>
 </p>
 
 ---
@@ -132,8 +131,10 @@ Today that curiosity lives in **Bitcoin**, **Nostr**, and **free software** — 
 If you find my open-source work useful, you can support it with a Lightning tip:
 
 ```text
-⚡ tips@psam21 (add your Lightning address here)
+⚡ yellowbobcat7@primal.net
 ```
+
+Or find me on Nostr: `npub1sjtntkr698y6cpy42cu4lxvpc46rlw463u2j6a7ltuhxjryecxjs4xfet8`
 
 <div align="center">
 
