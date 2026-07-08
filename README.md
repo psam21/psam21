@@ -29,14 +29,15 @@
 
 | # | Project | Live Demo | What it does |
 |---|---------|-----------|--------------|
-| 1 | 🔒 [nipees](https://nipees.vercel.app) | [nipees.vercel.app](https://nipees.vercel.app) | **NIP-EEs — Encrypted Epoch Shield.** A reference implementation of NIP-EEs for encrypted, epoch-scoped event sharing over Nostr — private groups and messages that stay confidential and expire cleanly. |
-| 2 | 🔒 [haiku](https://haiku-hour.vercel.app) | [haiku-hour.vercel.app](https://haiku-hour.vercel.app) | **A new haiku every hour.** A generative poetry engine publishing 283 haikus across 50+ categories — small, daily acts of making that keep the joy in building. |
-| 3 | [NostrForNomads](https://github.com/psam21/NostrForNomads) | [nostr.co.in](https://nostr.co.in) | **Nostr for Nomads.** A Nostr-native hub for travelers and communities — decentralized social for people on the move, live at nostr.co.in. |
-| 4 | [cb](https://github.com/psam21/cb) | [culturebridge.vercel.app](https://culturebridge.vercel.app/) | **Culture Bridge.** Preserving heritage & tradition by tying culture to Bitcoin + Lightning + Nostr — a living archive that rewards and sustains cultural work. |
-| 5 | [biffes26](https://github.com/psam21/biffes26) | [biffes26.vercel.app](https://biffes26.vercel.app) | **⭐ Most-starred original project.** A community platform (live at biffes26.vercel.app) — the project that's resonated most with visitors. |
-| 6 | [ipl26](https://github.com/psam21/ipl26) | [ipl26.vercel.app](https://ipl26.vercel.app) | **IPL 2026 team & player analysis.** Stats, comparisons, and insights across IPL 2026 teams and players — interactive and live at ipl26.vercel.app. |
-| 7 | [nrpc_workshop](https://github.com/psam21/nrpc_workshop) | — | **Nostr RPC workshop.** Hands-on material for building on Nostr's RPC surface — notes and code from a working session. |
-| 8 | [strc-price-panel](https://github.com/psam21/strc-price-panel) | — | **STRK price panel for the desktop.** A lightweight panel that surfaces live STRK market prices right on your desktop. |
+| 1 | [ns](https://github.com/psam21/ns) | [nostr.ltd](https://nostr.ltd) | **Nostr relay (Go).** A self-hosted Nostr relay built on a Shugur fork plus a Blossom server — the infrastructure powering nostr.ltd and the backbone for the Nostr work above. |
+| 2 | 🔒 [nipees](https://nipees.vercel.app) | [nipees.vercel.app](https://nipees.vercel.app) | **NIP-EEs — Encrypted Epoch Shield.** A reference implementation of NIP-EEs for encrypted, epoch-scoped event sharing over Nostr — private groups and messages that stay confidential and expire cleanly. |
+| 3 | 🔒 [haiku](https://haiku-hour.vercel.app) | [haiku-hour.vercel.app](https://haiku-hour.vercel.app) | **A new haiku every hour.** A generative poetry engine publishing 283 haikus across 50+ categories — small, daily acts of making that keep the joy in building. |
+| 4 | [NostrForNomads](https://github.com/psam21/NostrForNomads) | [nostr.co.in](https://nostr.co.in) | **Nostr for Nomads.** A Nostr-native hub for travelers and communities — decentralized social for people on the move, live at nostr.co.in. |
+| 5 | [cb](https://github.com/psam21/cb) | [culturebridge.vercel.app](https://culturebridge.vercel.app/) | **Culture Bridge.** Preserving heritage & tradition by tying culture to Bitcoin + Lightning + Nostr — a living archive that rewards and sustains cultural work. |
+| 6 | [biffes26](https://github.com/psam21/biffes26) | [biffes26.vercel.app](https://biffes26.vercel.app) | **⭐ Most-starred original project.** A community platform (live at biffes26.vercel.app) — the project that's resonated most with visitors. |
+| 7 | [ipl26](https://github.com/psam21/ipl26) | [ipl26.vercel.app](https://ipl26.vercel.app) | **IPL 2026 team & player analysis.** Stats, comparisons, and insights across IPL 2026 teams and players — interactive and live at ipl26.vercel.app. |
+| 8 | [nrpc_workshop](https://github.com/psam21/nrpc_workshop) | — | **Nostr RPC workshop.** Hands-on material for building on Nostr's RPC surface — notes and code from a working session. |
+| 9 | [strc-price-panel](https://github.com/psam21/strc-price-panel) | — | **STRK price panel for the desktop.** A lightweight panel that surfaces live STRK market prices right on your desktop. |
 
 ### 🍴 Forks & Contributions
 
