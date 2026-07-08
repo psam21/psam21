@@ -26,10 +26,12 @@
 
 Today that curiosity lives in **Bitcoin**, **Nostr**, and **free software** — open tools that resist censorship and keep culture alive. A few threads I keep returning to:
 
-- 🟠 **Bitcoin & Lightning** — build portfolio & market tooling, and a STRK price panel for the desktop
-- 🟣 **Nostr protocol** — run a relay ([`ns`](https://github.com/psam21/ns)) and build the protocol: *NIP-EEs* encrypted event sharing ([`nipees`](https://nipees.vercel.app)), plus *NostrForNomads*
-- 🪔 **Culture Bridge** — tying heritage & tradition to Bitcoin + Lightning + Nostr ([culturebridge.vercel.app](https://culturebridge.vercel.app/))
-- ✍️ **Making** — a haiku-a-day generator (283 haikus) and small projects that keep the joy in
+- 🟠 **Bitcoin & Lightning** — a Bitcoin portfolio app ([`cp84`](https://psam84.streamlit.app)), a STRK price panel ([`strc-price-panel`](https://github.com/psam21/strc-price-panel)), and contributing to [`btcpayserver`](https://btcpayserver.org/)
+- 🟣 **Nostr protocol** — *NIP-EEs* encrypted event sharing ([`nipees`](https://nipees.vercel.app)), [`NostrForNomads`](https://nostr.co.in), a Nostr RPC workshop ([`nrpc_workshop`](https://github.com/psam21/nrpc_workshop)), and contributing to [`snort`](https://phoenix.social)
+- 🪔 **Culture Bridge** — tying heritage & tradition to Bitcoin + Lightning + Nostr ([`cb`](https://culturebridge.vercel.app/))
+- 🏏 **IPL 2026** — team & player analysis ([`ipl26`](https://ipl26.vercel.app))
+- 🐧 **GNOME** — live BTC & crypto rates, tray icons, weather, battery time, and indicator visibility extensions
+- ✍️ **Making** — a haiku-a-day generator (283 haikus, [`haiku`](https://haiku-hour.vercel.app)) and small projects that keep the joy in
 
 ---
 
