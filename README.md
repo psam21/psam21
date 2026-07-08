@@ -1,22 +1,42 @@
 <!--
-  ⚡ psam21 profile — landing-page style (Bitcoin / Nostr / FOSS)
-  Edit placeholders: Nostr npub, X/LinkedIn, Lightning address.
+  ⚡ psam21 profile — vibrant but seasoned (Bitcoin / Nostr / FOSS)
+  A landing page that reads like a craftsman's portfolio, not a college hackathon page.
 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7931A,100:7A3B00&height=180&section=header&text=Sam%20P%20%C2%B7%20psam21&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20open%2C%20sovereign%2C%20censorship-resistant%20tools&descAlignY=58&descSize=18" alt="banner" />
+</p>
+
 <div align="center">
 
-# ⚡ Sam P
-### `psam21` — building open, sovereign, censorship-resistant tools
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=700&color=F7931A&center=true&vCenter=true&width=620&lines=Building+on+Bitcoin+%26+Lightning;Decentralizing+the+web+with+Nostr;Preserving+culture+through+code;GNOME+%2B+Open+Source+enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=F7931A&center=true&vCenter=true&width=640&lines=Building+on+Bitcoin+%26+Lightning;Decentralizing+the+web+with+Nostr;Preserving+culture+through+code;Three+decades+of+shipping+software" alt="Typing SVG" />
 
 <br/>
 
-[![Live Projects](https://img.shields.io/badge/▶_Live_Projects-F7931A?style=for-the-badge)](https://github.com/psam21#-featured-projects)
-[![Nostr](https://img.shields.io/badge/Nostr-nostr.co.in-F7931A?style=for-the-badge&logo=nostr&logoColor=white)](https://nostr.co.in)
-[![Hire me](https://img.shields.io/badge/Hireable-Yes-181717?style=for-the-badge)](https://github.com/psam21)
-[![Profile views](https://komarev.com/ghpvc/?username=psam21&color=0e0e0e&logo=github&logoColor=F7931A&style=for-the-badge)](https://github.com/psam21)
+<a href="https://github.com/psam21#-featured-projects"><img src="https://img.shields.io/badge/▶_Live_Projects-F7931A?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://nostr.co.in"><img src="https://img.shields.io/badge/Nostr-nostr.co.in-F7931A?style=for-the-badge&logo=nostr&logoColor=white" /></a>
+<a href="https://github.com/psam21"><img src="https://img.shields.io/badge/Hireable-Yes-181717?style=for-the-badge&logo=briefcase&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=psam21&color=0e0e0e&logo=github&logoColor=F7931A&style=for-the-badge" alt="views" />
 
 </div>
+
+---
+
+## 👋 Hello
+
+I'm **Sam P** — a developer who's been at this since computers showed up in my life in **'93**. Three decades in, I build fewer things and finish more of them: open, sovereign tools at the intersection of **Bitcoin**, **Nostr**, and **free software**. I care about craft, privacy, and work that outlives the hype cycle.
+
+---
+
+## 🧭 What I Work On
+
+> Not a roadmap of ambitions — a record of what's actually shipped and running.
+
+- 🟠 **Bitcoin & Lightning** — a STRC price panel for the desktop ([`strc-price-panel`](https://github.com/psam21/strc-price-panel)) and contributing to [`btcpayserver`](https://btcpayserver.org/)
+- 🟣 **Nostr protocol** — a relay ([`ns`](https://nostr.ltd)), encrypted identity ([`Epoch Shield`](https://epochshield.com) / [`nip-ees-core`](https://github.com/psam21/nip-ees-core)), [`NostrForNomads`](https://nostr.co.in), and contributing to [`snort`](https://phoenix.social)
+- 🪔 **Culture Bridge** — tying heritage & tradition to Bitcoin + Lightning + Nostr ([`cb`](https://culturebridge.vercel.app/))
+- 🎬 **Civic & culture** — a festival PWA ([`biffes26`](https://biffes26.vercel.app)) and cricket analytics ([`ipl26`](https://ipl26.vercel.app))
+- 🐧 **GNOME** — live BTC & crypto rates, tray icons, weather, battery, and indicator extensions
+- ✍️ **Making** — a haiku-a-day generator ([`haiku`](https://haiku-hour.vercel.app)) and small projects that keep the joy in
 
 ---
 
@@ -123,8 +143,6 @@ If you find my open-source work useful, you can support it with a Lightning tip:
 
 Or find me on Nostr: `npub1sjtntkr698y6cpy42cu4lxvpc46rlw463u2j6a7ltuhxjryecxjs4xfet8`
 
-<div align="center">
-
-**Built with ⚡ and open source.**
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F7931A,100:7A3B00&height=120&section=footer&text=Built%20with%20%E2%9A%A1%20and%20three%20decades%20of%20patience&fontColor=ffffff&fontSize=16" alt="footer" />
+</p>
