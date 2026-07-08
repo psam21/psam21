@@ -37,7 +37,7 @@
 | 6 | [biffes26](https://github.com/psam21/biffes26) | [biffes26.vercel.app](https://biffes26.vercel.app) | **⭐ Most-starred original project.** A community platform (live at biffes26.vercel.app) — the project that's resonated most with visitors. |
 | 7 | [ipl26](https://github.com/psam21/ipl26) | [ipl26.vercel.app](https://ipl26.vercel.app) | **IPL 2026 team & player analysis.** Stats, comparisons, and insights across IPL 2026 teams and players — interactive and live at ipl26.vercel.app. |
 | 8 | [nrpc_workshop](https://github.com/psam21/nrpc_workshop) | — | **Nostr RPC workshop.** Hands-on material for building on Nostr's RPC surface — notes and code from a working session. |
-| 9 | [strc-price-panel](https://github.com/psam21/strc-price-panel) | — | **STRK price panel for the desktop.** A lightweight panel that surfaces live STRK market prices right on your desktop. |
+| 9 | [strc-price-panel](https://github.com/psam21/strc-price-panel) | — | **STRC price panel for the desktop.** A lightweight panel that surfaces live STRC market prices right on your desktop. |
 
 ### 🍴 Forks & Contributions
 
