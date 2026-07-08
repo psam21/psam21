@@ -27,19 +27,6 @@ I'm **Sam P** — a developer who's been at this since computers showed up in my
 
 ---
 
-## 🧭 What I Work On
-
-> Not a roadmap of ambitions — a record of what's actually shipped and running.
-
-- 🟠 **Bitcoin & Lightning** — a STRC price panel for the desktop ([`strc-price-panel`](https://github.com/psam21/strc-price-panel)) and contributing to [`btcpayserver`](https://btcpayserver.org/)
-- 🟣 **Nostr protocol** — a relay ([`ns`](https://nostr.ltd)), encrypted identity ([`Epoch Shield`](https://epochshield.com) / [`nip-ees-core`](https://github.com/psam21/nip-ees-core)), [`NostrForNomads`](https://nostr.co.in), and contributing to [`snort`](https://phoenix.social)
-- 🪔 **Culture Bridge** — tying heritage & tradition to Bitcoin + Lightning + Nostr ([`cb`](https://culturebridge.vercel.app/))
-- 🎬 **Civic & culture** — a festival PWA ([`biffes26`](https://biffes26.vercel.app)) and cricket analytics ([`ipl26`](https://ipl26.vercel.app))
-- 🐧 **GNOME** — live BTC & crypto rates, tray icons, weather, battery, and indicator extensions
-- ✍️ **Making** — a haiku-a-day generator ([`haiku`](https://haiku-hour.vercel.app)) and small projects that keep the joy in
-
----
-
 ## 🚀 Featured Projects
 
 > 🔒 private repo (live demo public) · 🍴 fork. **Click any Live Demo — no need to fork.**
