@@ -20,21 +20,6 @@
 
 ---
 
-## 🧭 The short version
-
-> *Computers arrived in my life in '93 — not as magic, but as companions. Curiosity became skill, skill became work, and somewhere under the deadlines the joy got quiet. This is me returning to the question of why I build.*
-
-Today that curiosity lives in **Bitcoin**, **Nostr**, and **free software** — open tools that resist censorship and keep culture alive. A few threads I keep returning to:
-
-- 🟠 **Bitcoin & Lightning** — a STRK price panel for the desktop ([`strc-price-panel`](https://github.com/psam21/strc-price-panel)) and contributing to [`btcpayserver`](https://btcpayserver.org/)
-- 🟣 **Nostr protocol** — *NIP-EEs* encrypted event sharing ([`nipees`](https://nipees.vercel.app)), [`NostrForNomads`](https://nostr.co.in), a Nostr RPC workshop ([`nrpc_workshop`](https://github.com/psam21/nrpc_workshop)), and contributing to [`snort`](https://phoenix.social)
-- 🪔 **Culture Bridge** — tying heritage & tradition to Bitcoin + Lightning + Nostr ([`cb`](https://culturebridge.vercel.app/))
-- 🏏 **IPL 2026** — team & player analysis ([`ipl26`](https://ipl26.vercel.app))
-- 🐧 **GNOME** — live BTC & crypto rates, tray icons, weather, battery time, and indicator visibility extensions
-- ✍️ **Making** — a haiku-a-day generator (283 haikus, [`haiku`](https://haiku-hour.vercel.app)) and small projects that keep the joy in
-
----
-
 ## 🚀 Featured Projects
 
 > 🔒 private repo (live demo public) · 🍴 fork. **Click any Live Demo — no need to fork.**
