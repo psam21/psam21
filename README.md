@@ -1,87 +1,44 @@
 <!--
-  ⚡ psam21 profile README — Bitcoin / Nostr / FOSS themed
-  Your original "checkpoint" narrative is preserved below, with rich widgets layered on top.
-  Edit the placeholders (links, socials, Lightning address) to match your real handles.
+  ⚡ psam21 profile — landing-page style (Bitcoin / Nostr / FOSS)
+  Edit placeholders: Nostr npub, X/LinkedIn, Lightning address.
 -->
 <div align="center">
 
-# ⚡ Sam P &nbsp;|&nbsp; `psam21`
+# ⚡ Sam P
+### `psam21` — building open, sovereign, censorship-resistant tools
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=800&color=F7931A&center=true&vCenter=true&width=600&lines=Building+on+Bitcoin+%26+Lightning;Decentralizing+the+web+with+Nostr;GNOME+%2B+Open+Source+enthusiast;Preserving+culture+through+code" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=psam21&label=Profile%20views&color=0e0e0e&logo=github&logoColor=F7931A&style=for-the-badge" alt="Visitor count" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=700&color=F7931A&center=true&vCenter=true&width=620&lines=Building+on+Bitcoin+%26+Lightning;Decentralizing+the+web+with+Nostr;Preserving+culture+through+code;GNOME+%2B+Open+Source+enthusiast" alt="Typing SVG" />
 
 <br/>
 
-[![Nostr](https://img.shields.io/badge/Nostr-%23F7931A?style=for-the-badge&logo=nostr&logoColor=white)](https://nostr.co.in)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-Orange?style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org)
-[![Lightning](https://img.shields.io/badge/Lightning-Network-F7931A?style=for-the-badge&logo=lightning&logoColor=white)](https://lightning.network)
-[![Hireable](https://img.shields.io/badge/Hireable-Yes-F7931A?style=for-the-badge)](https://github.com/psam21)
+[![Live Projects](https://img.shields.io/badge/▶_Live_Projects-F7931A?style=for-the-badge)](https://github.com/psam21#-featured-projects)
+[![Nostr](https://img.shields.io/badge/Nostr-nostr.co.in-F7931A?style=for-the-badge&logo=nostr&logoColor=white)](https://nostr.co.in)
+[![Hire me](https://img.shields.io/badge/Hireable-Yes-181717?style=for-the-badge)](https://github.com/psam21)
+[![Profile views](https://komarev.com/ghpvc/?username=psam21&color=0e0e0e&logo=github&logoColor=F7931A&style=for-the-badge)](https://github.com/psam21)
 
 </div>
 
 ---
 
-## 🧡 About Me
+## 🧭 The short version
 
-> This repository is part of a longer story.
+> *Computers arrived in my life in '93 — not as magic, but as companions. Curiosity became skill, skill became work, and somewhere under the deadlines the joy got quiet. This is me returning to the question of why I build.*
 
-I grew up curious before I grew up confident.
+Today that curiosity lives in **Bitcoin**, **Nostr**, and **free software** — open tools that resist censorship and keep culture alive. A few threads I keep returning to:
 
-Computers arrived in my life in '93, and they stayed.
-Not as magic, but as companions.
-They listened when I experimented.
-They reacted honestly.
-They never pretended.
-
-Over time, curiosity turned into skill.
-Skill turned into work.
-Work turned into responsibility.
-
-Somewhere along the way, the joy got quieter — not lost, just buried under deadlines, frameworks, meetings, and the performance of certainty. I learned how to deliver, how to explain, how to make systems behave. But I missed the feeling of *building because something inside me asked why*.
-
-This repository is me returning to that question.
-
-It's not meant to impress.
-It's meant to reflect.
-
-Every line here carries years of small lessons:
-- that simplicity is harder than cleverness
-- that clarity beats control
-- that tools should disappear once they've done their job
-
-This is not the beginning of my journey.
-It's a checkpoint.
-
-A place where past curiosity meets present capability.
-Where I build slowly, deliberately, and honestly — the way I wanted to when I was younger, and the way I still do when no one is watching.
-
-If you're reading this, you're welcome to explore.
-If you find something useful, take it.
-If you see a better way, I'd like to learn.
-
-This code is just the surface.
-The real project is continuity.
-
-> Today that curiosity lives in **Bitcoin**, **Nostr**, and **free software** — building open, sovereign, and censorship-resistant tools, and preserving culture through code.
-
-What started as tinkering became a body of work across a few threads I keep returning to:
-
-- 🟠 **Bitcoin & Lightning** — I authored the *Epoch Bitcoin Ecosystem Report 2026*, and build trading-signal, portfolio, and market tooling (`btct`, `cp` / `cpw` / `cp84`, `btcusd`, `btcewt`).
-- 🟣 **Nostr protocol** — beyond running a relay ([`ns`](https://github.com/psam21/ns)), I build the protocol itself: *NIP-EEs* encrypted event sharing ([`nip-ees-core`](https://github.com/psam21/nip-ees-core)), *NIP-SMS* secure messaging, and *Nostrmart*, a Nostr marketplace.
-- 🪔 **Culture Bridge** — a multi-year lineage (`cb` → `cbmo` → `cbc2` → `cbc3`) preserving heritage & tradition with Bitcoin + Lightning + Nostr.
-- ✍️ **Making** — a haiku-a-day generator (283 haikus, 50+ categories) and personal projects that keep the joy in building.
+- 🟠 **Bitcoin & Lightning** — authored the *Epoch Bitcoin Ecosystem Report 2026*; build trading-signal, portfolio & market tooling
+- 🟣 **Nostr protocol** — run a relay ([`ns`](https://github.com/psam21/ns)) and build the protocol: *NIP-EEs*, *NIP-SMS*, *Nostrmart*
+- 🪔 **Culture Bridge** — a multi-year lineage (`cb` → `cbmo` → `cbc2` → `cbc3`) tying heritage to Bitcoin + Nostr
+- ✍️ **Making** — a haiku-a-day generator (283 haikus) and small projects that keep the joy in
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
-> 🔒 = private repo (live demo still public) · 🍴 = fork of an upstream project. **Click any Live Demo to see it running** — no need to fork.
+> 🔒 private repo (live demo public) · 🍴 fork. **Click any Live Demo — no need to fork.**
 
 ### ✨ Original Work
-*Ordered by commit activity (most active first).*
+*By commit activity.*
 
 | # | Project | Live Demo | What it does |
 |---|---------|-----------|--------------|
@@ -112,7 +69,6 @@ What started as tinkering became a body of work across a few threads I keep retu
 | 25 | 🔒 [btcusd](https://github.com/psam21/btcusd) | — | BTC/USD tool |
 
 ### 🍴 Forks & Contributions
-*Upstream projects I've forked and contributed to.*
 
 | # | Project | Live Demo | What it does |
 |---|---------|-----------|--------------|
@@ -127,7 +83,7 @@ What started as tinkering became a body of work across a few threads I keep retu
 
 ---
 
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -145,7 +101,7 @@ What started as tinkering became a body of work across a few threads I keep retu
 
 ---
 
-## 📊 GitHub Stats
+## 📊 By the Numbers
 
 <div align="center">
 
