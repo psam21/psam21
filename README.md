@@ -67,6 +67,13 @@ The real project is continuity.
 
 > Today that curiosity lives in **Bitcoin**, **Nostr**, and **free software** — building open, sovereign, and censorship-resistant tools, and preserving culture through code.
 
+What started as tinkering became a body of work across a few threads I keep returning to:
+
+- 🟠 **Bitcoin & Lightning** — I authored the *Epoch Bitcoin Ecosystem Report 2026*, and build trading-signal, portfolio, and market tooling (`btct`, `cp` / `cpw` / `cp84`, `btcusd`, `btcewt`).
+- 🟣 **Nostr protocol** — beyond running a relay ([`ns`](https://github.com/psam21/ns)), I build the protocol itself: *NIP-EEs* encrypted event sharing ([`nip-ees-core`](https://github.com/psam21/nip-ees-core)), *NIP-SMS* secure messaging, and *Nostrmart*, a Nostr marketplace.
+- 🪔 **Culture Bridge** — a multi-year lineage (`cb` → `cbmo` → `cbc2` → `cbc3`) preserving heritage & tradition with Bitcoin + Lightning + Nostr.
+- ✍️ **Making** — a haiku-a-day generator (283 haikus, 50+ categories) and personal projects that keep the joy in building.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -124,13 +131,18 @@ The real project is continuity.
 | ⭐ | Project | What it does |
 |----|---------|--------------|
 | 🟠 | [**ns**](https://github.com/psam21/ns) | Nostr relay (Go) built on Shugur + Blossom — powers [nostr.ltd](https://nostr.ltd) |
-| 🔐 | [**nip-ees-core**](https://github.com/psam21/nip-ees-core) | Core library for NIP-EEs encrypted event sharing |
-| 🪔 | [**cb** (Culture Bridge)](https://github.com/psam21/cb) | Preserving heritage & tradition with Bitcoin + Lightning + Nostr |
+| 🔐 | [**nip-ees-core**](https://github.com/psam21/nip-ees-core) | Core library for NIP-EEs (*Encrypted Epoch Shield*) event sharing |
+| 🪔 | [**cb** (Culture Bridge)](https://github.com/psam21/cb) | Preserving heritage & tradition with Bitcoin + Lightning + Nostr (lineage: `cb` → `cbmo` → `cbc2` → `cbc3`) |
 | 🌐 | [**NostrForNomads**](https://github.com/psam21/NostrForNomads) | Nostr for Nomads — [nostr.co.in](https://nostr.co.in) |
 | 📊 | [**biffes26**](https://github.com/psam21/biffes26) | ⭐ Most-starred original project — live at [biffes26.vercel.app](https://biffes26.vercel.app) |
 | 🏏 | [**ipl26**](https://github.com/psam21/ipl26) | IPL 2026 team & player analysis — [ipl26.vercel.app](https://ipl26.vercel.app) |
 | 💱 | [**gnome-shell-bitcoin-markets**](https://github.com/psam21/gnome-shell-bitcoin-markets) | GNOME extension showing live BTC & crypto market rates |
 | 📈 | [**strc-price-panel**](https://github.com/psam21/strc-price-panel) | STRK price panel for the desktop |
+| 📝 | **EBER** *(private)* | *Epoch Bitcoin Ecosystem Report 2026* — annual Bitcoin ecosystem research |
+| 💬 | **NIP-SMS** *(private)* | *Secure Messaging Shield* — Nostr-based encrypted messaging |
+| 🛒 | **Nostrmart** *(private)* | A marketplace built on Nostr |
+| 🤖 | **btct** / **cp** *(private)* | BTC trading-signal app & Bitcoin portfolio tooling |
+| 🌸 | **haiku** *(private)* | A new haiku every hour — 283 haikus across 50+ categories |
 
 </div>
 
