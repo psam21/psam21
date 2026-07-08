@@ -28,7 +28,7 @@ Today that curiosity lives in **Bitcoin**, **Nostr**, and **free software** — 
 
 - 🟠 **Bitcoin & Lightning** — authored the *Epoch Bitcoin Ecosystem Report 2026*; build trading-signal, portfolio & market tooling
 - 🟣 **Nostr protocol** — run a relay ([`ns`](https://github.com/psam21/ns)) and build the protocol: *NIP-EEs*, *NIP-SMS*, *Nostrmart*
-- 🪔 **Culture Bridge** — a multi-year lineage (`cb` → `cbmo` → `cbc2` → `cbc3`) tying heritage to Bitcoin + Nostr
+- 🪔 **Culture Bridge** — tying heritage & tradition to Bitcoin + Lightning + Nostr ([culturebridge.vercel.app](https://culturebridge.vercel.app/))
 - ✍️ **Making** — a haiku-a-day generator (283 haikus) and small projects that keep the joy in
 
 ---
@@ -43,30 +43,27 @@ Today that curiosity lives in **Bitcoin**, **Nostr**, and **free software** — 
 | # | Project | Live Demo | What it does |
 |---|---------|-----------|--------------|
 | 1 | 🔒 [nipees](https://nipees.vercel.app) | [nipees.vercel.app](https://nipees.vercel.app) | NIP-EEs — Encrypted Epoch Shield |
-| 2 | 🔒 [cbc3](https://cbc3.vercel.app) | [cbc3.vercel.app](https://cbc3.vercel.app) | Culture Bridge v0.3 |
-| 3 | [NostrForNomads](https://github.com/psam21/NostrForNomads) | [nostr.co.in](https://nostr.co.in) | Nostr for Nomads |
-| 4 | [cb](https://github.com/psam21/cb) | [culturebridge.vercel.app](https://culturebridge.vercel.app/) | Culture Bridge — heritage + Bitcoin + Nostr |
-| 5 | [biffes26](https://github.com/psam21/biffes26) | [biffes26.vercel.app](https://biffes26.vercel.app) | ⭐ Most-starred original project |
-| 6 | 🔒 [cp84](https://psam84.streamlit.app) | [psam84.streamlit.app](https://psam84.streamlit.app) | Bitcoin portfolio (Streamlit) |
-| 7 | [ns](https://github.com/psam21/ns) | [nostr.ltd](https://nostr.ltd) | Nostr relay (Go) |
-| 8 | 🔒 [cp](https://psam21.streamlit.app/) | [psam21.streamlit.app](https://psam21.streamlit.app/) | Bitcoin portfolio |
-| 9 | 🔒 [nostrmart](https://nostrmart.vercel.app) | [nostrmart.vercel.app](https://nostrmart.vercel.app) | Nostr marketplace |
-| 10 | [ipl26](https://github.com/psam21/ipl26) | [ipl26.vercel.app](https://ipl26.vercel.app) | IPL 2026 team & player analysis |
-| 11 | 🔒 [nip-sms](https://nip-sms.vercel.app) | [nip-sms.vercel.app](https://nip-sms.vercel.app) | NIP-SMS — Secure Messaging Shield |
-| 12 | 🔒 [cbc2](https://cbc2.vercel.app) | [cbc2.vercel.app](https://cbc2.vercel.app) | Culture Bridge v0.2 |
-| 13 | [nrpc_workshop](https://github.com/psam21/nrpc_workshop) | — | Nostr RPC workshop |
-| 14 | 🔒 [lm26](https://lm26-eight.vercel.app) | [lm26-eight.vercel.app](https://lm26-eight.vercel.app) | Ladakh Family Trip (May 2026) |
-| 15 | 🔒 [cpw](https://psam42.streamlit.app/) | [psam42.streamlit.app](https://psam42.streamlit.app/) | Bitcoin portfolio (Streamlit) |
-| 16 | 🔒 [AA](https://aa-ten-flax.vercel.app) | [aa-ten-flax.vercel.app](https://aa-ten-flax.vercel.app) | AA project |
-| 17 | 🔒 [btct](https://btct25.streamlit.app/) | [btct25.streamlit.app](https://btct25.streamlit.app/) | BTC trading-signal app |
-| 18 | 🔒 [EBER](https://eber-drab.vercel.app) | [eber-drab.vercel.app](https://eber-drab.vercel.app) | Epoch Bitcoin Ecosystem Report 2026 |
-| 19 | 🔒 [pp](https://github.com/psam21/pp) | — | Shell utilities |
-| 20 | 🔒 [cbmo](https://github.com/psam21/cbmo) | — | Culture Bridge (mobile/origin) |
-| 21 | 🔒 [btcewt](https://btcewt.vercel.app) | [btcewt.vercel.app](https://btcewt.vercel.app) | BTC EWT tool |
-| 22 | [strc-price-panel](https://github.com/psam21/strc-price-panel) | — | STRK price panel for desktop |
-| 23 | 🔒 [haiku](https://haiku-hour.vercel.app) | [haiku-hour.vercel.app](https://haiku-hour.vercel.app) | A new haiku every hour (283 haikus) |
-| 24 | [nip-ees-core](https://github.com/psam21/nip-ees-core) | — | Core library for NIP-EEs |
-| 25 | 🔒 [btcusd](https://github.com/psam21/btcusd) | — | BTC/USD tool |
+| 2 | [NostrForNomads](https://github.com/psam21/NostrForNomads) | [nostr.co.in](https://nostr.co.in) | Nostr for Nomads |
+| 3 | [cb](https://github.com/psam21/cb) | [culturebridge.vercel.app](https://culturebridge.vercel.app/) | Culture Bridge — heritage + Bitcoin + Nostr |
+| 4 | [biffes26](https://github.com/psam21/biffes26) | [biffes26.vercel.app](https://biffes26.vercel.app) | ⭐ Most-starred original project |
+| 5 | 🔒 [cp84](https://psam84.streamlit.app) | [psam84.streamlit.app](https://psam84.streamlit.app) | Bitcoin portfolio (Streamlit) |
+| 6 | [ns](https://github.com/psam21/ns) | [nostr.ltd](https://nostr.ltd) | Nostr relay (Go) |
+| 7 | 🔒 [cp](https://psam21.streamlit.app/) | [psam21.streamlit.app](https://psam21.streamlit.app/) | Bitcoin portfolio |
+| 8 | 🔒 [nostrmart](https://nostrmart.vercel.app) | [nostrmart.vercel.app](https://nostrmart.vercel.app) | Nostr marketplace |
+| 9 | [ipl26](https://github.com/psam21/ipl26) | [ipl26.vercel.app](https://ipl26.vercel.app) | IPL 2026 team & player analysis |
+| 10 | 🔒 [nip-sms](https://nip-sms.vercel.app) | [nip-sms.vercel.app](https://nip-sms.vercel.app) | NIP-SMS — Secure Messaging Shield |
+| 11 | [nrpc_workshop](https://github.com/psam21/nrpc_workshop) | — | Nostr RPC workshop |
+| 12 | 🔒 [lm26](https://lm26-eight.vercel.app) | [lm26-eight.vercel.app](https://lm26-eight.vercel.app) | Ladakh Family Trip (May 2026) |
+| 13 | 🔒 [cpw](https://psam42.streamlit.app/) | [psam42.streamlit.app](https://psam42.streamlit.app/) | Bitcoin portfolio (Streamlit) |
+| 14 | 🔒 [AA](https://aa-ten-flax.vercel.app) | [aa-ten-flax.vercel.app](https://aa-ten-flax.vercel.app) | AA project |
+| 15 | 🔒 [btct](https://btct25.streamlit.app/) | [btct25.streamlit.app](https://btct25.streamlit.app/) | BTC trading-signal app |
+| 16 | 🔒 [EBER](https://eber-drab.vercel.app) | [eber-drab.vercel.app](https://eber-drab.vercel.app) | Epoch Bitcoin Ecosystem Report 2026 |
+| 17 | 🔒 [pp](https://github.com/psam21/pp) | — | Shell utilities |
+| 18 | 🔒 [btcewt](https://btcewt.vercel.app) | [btcewt.vercel.app](https://btcewt.vercel.app) | BTC EWT tool |
+| 19 | [strc-price-panel](https://github.com/psam21/strc-price-panel) | — | STRK price panel for desktop |
+| 20 | 🔒 [haiku](https://haiku-hour.vercel.app) | [haiku-hour.vercel.app](https://haiku-hour.vercel.app) | A new haiku every hour (283 haikus) |
+| 21 | [nip-ees-core](https://github.com/psam21/nip-ees-core) | — | Core library for NIP-EEs |
+| 22 | 🔒 [btcusd](https://github.com/psam21/btcusd) | — | BTC/USD tool |
 
 ### 🍴 Forks & Contributions
 
