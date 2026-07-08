@@ -76,7 +76,40 @@ What started as tinkering became a body of work across a few threads I keep retu
 
 ---
 
-## 🛠️ Tech Stack
+## � Featured Projects
+
+> Ordered by commit activity (most active first). 🍴 = fork · 🔒 = private repo (live demo still public). **Click any Live Demo to see it running** — no need to fork.
+
+| # | Project | Live Demo | What it does |
+|---|---------|-----------|--------------|
+| 1 | 🍴 [btcpayserver](https://github.com/psam21/btcpayserver) | [btcpayserver.org](https://btcpayserver.org/) | Self-hosted Bitcoin payment processor (fork) |
+| 2 | 🔒 [nipees](https://nipees.vercel.app) | [nipees.vercel.app](https://nipees.vercel.app) | NIP-EEs — Encrypted Epoch Shield |
+| 3 | 🍴 [snort](https://github.com/psam21/snort) | [phoenix.social](https://phoenix.social) | Feature-packed Nostr web UI (fork) |
+| 4 | 🔒 [cbc3](https://cbc3.vercel.app) | [cbc3.vercel.app](https://cbc3.vercel.app) | Culture Bridge v0.3 |
+| 5 | [NostrForNomads](https://github.com/psam21/NostrForNomads) | [nostr.co.in](https://nostr.co.in) | Nostr for Nomads |
+| 6 | [cb](https://github.com/psam21/cb) | [culturebridge.vercel.app](https://culturebridge.vercel.app/) | Culture Bridge — heritage + Bitcoin + Nostr |
+| 7 | [gnome-shell-bitcoin-markets](https://github.com/psam21/gnome-shell-bitcoin-markets) | — | GNOME extension: live BTC & crypto rates |
+| 8 | [biffes26](https://github.com/psam21/biffes26) | [biffes26.vercel.app](https://biffes26.vercel.app) | ⭐ Most-starred original project |
+| 9 | 🔒 [cp84](https://psam84.streamlit.app) | [psam84.streamlit.app](https://psam84.streamlit.app) | Bitcoin portfolio (Streamlit) |
+| 10 | [ns](https://github.com/psam21/ns) | [nostr.ltd](https://nostr.ltd) | Nostr relay (Go) |
+| 11 | 🔒 [cp](https://psam21.streamlit.app/) | [psam21.streamlit.app](https://psam21.streamlit.app/) | Bitcoin portfolio |
+| 12 | 🔒 [nostrmart](https://nostrmart.vercel.app) | [nostrmart.vercel.app](https://nostrmart.vercel.app) | Nostr marketplace |
+| 13 | [ipl26](https://github.com/psam21/ipl26) | [ipl26.vercel.app](https://ipl26.vercel.app) | IPL 2026 team & player analysis |
+| 14 | 🔒 [nip-sms](https://nip-sms.vercel.app) | [nip-sms.vercel.app](https://nip-sms.vercel.app) | NIP-SMS — Secure Messaging Shield |
+| 15 | 🔒 [cbc2](https://cbc2.vercel.app) | [cbc2.vercel.app](https://cbc2.vercel.app) | Culture Bridge v0.2 |
+| 16 | 🔒 [lm26](https://lm26-eight.vercel.app) | [lm26-eight.vercel.app](https://lm26-eight.vercel.app) | Ladakh Family Trip (May 2026) |
+| 17 | 🔒 [cpw](https://psam42.streamlit.app/) | [psam42.streamlit.app](https://psam42.streamlit.app/) | Bitcoin portfolio (Streamlit) |
+| 18 | 🔒 [AA](https://aa-ten-flax.vercel.app) | [aa-ten-flax.vercel.app](https://aa-ten-flax.vercel.app) | AA project |
+| 19 | 🔒 [btct](https://btct25.streamlit.app/) | [btct25.streamlit.app](https://btct25.streamlit.app/) | BTC trading-signal app |
+| 20 | 🔒 [EBER](https://eber-drab.vercel.app) | [eber-drab.vercel.app](https://eber-drab.vercel.app) | Epoch Bitcoin Ecosystem Report 2026 |
+| 21 | 🔒 [btcewt](https://btcewt.vercel.app) | [btcewt.vercel.app](https://btcewt.vercel.app) | BTC EWT tool |
+| 22 | [strc-price-panel](https://github.com/psam21/strc-price-panel) | — | STRK price panel for desktop |
+| 23 | 🔒 [haiku](https://haiku-hour.vercel.app) | [haiku-hour.vercel.app](https://haiku-hour.vercel.app) | A new haiku every hour (283 haikus) |
+| 24 | [nip-ees-core](https://github.com/psam21/nip-ees-core) | — | Core library for NIP-EEs |
+
+---
+
+## �🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -119,30 +152,6 @@ What started as tinkering became a body of work across a few threads I keep retu
 
 <img src="https://raw.githubusercontent.com/psam21/psam21/output/github-contribution-grid-snake.svg" alt="Snake animation (light)" />
 <img src="https://raw.githubusercontent.com/psam21/psam21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark)" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| ⭐ | Project | What it does |
-|----|---------|--------------|
-| 🟠 | [**ns**](https://github.com/psam21/ns) | Nostr relay (Go) built on Shugur + Blossom — powers [nostr.ltd](https://nostr.ltd) |
-| 🔐 | [**nip-ees-core**](https://github.com/psam21/nip-ees-core) | Core library for NIP-EEs (*Encrypted Epoch Shield*) event sharing |
-| 🪔 | [**cb** (Culture Bridge)](https://github.com/psam21/cb) | Preserving heritage & tradition with Bitcoin + Lightning + Nostr (lineage: `cb` → `cbmo` → `cbc2` → `cbc3`) |
-| 🌐 | [**NostrForNomads**](https://github.com/psam21/NostrForNomads) | Nostr for Nomads — [nostr.co.in](https://nostr.co.in) |
-| 📊 | [**biffes26**](https://github.com/psam21/biffes26) | ⭐ Most-starred original project — live at [biffes26.vercel.app](https://biffes26.vercel.app) |
-| 🏏 | [**ipl26**](https://github.com/psam21/ipl26) | IPL 2026 team & player analysis — [ipl26.vercel.app](https://ipl26.vercel.app) |
-| 💱 | [**gnome-shell-bitcoin-markets**](https://github.com/psam21/gnome-shell-bitcoin-markets) | GNOME extension showing live BTC & crypto market rates |
-| 📈 | [**strc-price-panel**](https://github.com/psam21/strc-price-panel) | STRK price panel for the desktop |
-| 📝 | **EBER** *(private)* | *Epoch Bitcoin Ecosystem Report 2026* — annual Bitcoin ecosystem research |
-| 💬 | **NIP-SMS** *(private)* | *Secure Messaging Shield* — Nostr-based encrypted messaging |
-| 🛒 | **Nostrmart** *(private)* | A marketplace built on Nostr |
-| 🤖 | **btct** / **cp** *(private)* | BTC trading-signal app & Bitcoin portfolio tooling |
-| 🌸 | **haiku** *(private)* | A new haiku every hour — 283 haikus across 50+ categories |
 
 </div>
 
