@@ -32,26 +32,22 @@ I'm **Sam P** — a developer who's been at this since computers showed up in my
 > 🔒 private repo (live demo public) · 🍴 fork. **Click any Live Demo — no need to fork.**
 
 ### ✨ Original Work
-Public repositories ordered by latest push; private projects with public demos are listed last because their activity is not public.
+A focused set of active projects and public demos.
 
 | # | Project | Live Demo / Listing | What it does |
 |---|---------|-----------|--------------|
-| 1 | [status-area-horizontal-spacing](https://github.com/psam21/status-area-horizontal-spacing-gnome-shell-extension) | [GNOME Extensions](https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/) | **Status Area Horizontal Spacing.** A GNOME Shell extension with a configurable 0-12px slider for tightening top-panel status indicators. |
-| 2 | [background-logo-extension](https://github.com/psam21/background-logo-extension) | [GNOME Extensions](https://extensions.gnome.org/extension/7364/background-logo/) | **Background Logo.** A GNOME Shell 51 extension for placing configurable light and dark logos over the desktop background. |
-| 3 | [ns](https://github.com/psam21/ns) | [nostr.ltd](https://nostr.ltd) | **Nostr infrastructure (Go).** A public Nostr relay and companion Blossom media service with PostgreSQL-backed storage, protocol tooling, and an operator dashboard. |
-| 4 | [nip-ees-core](https://github.com/psam21/nip-ees-core) | — | **NIP-EEs core library & spec.** The reference implementation and specification behind Epoch Shield — encrypted, epoch-scoped event sharing for Nostr (private groups and messages that stay confidential and expire cleanly). |
-| 5 | [strc-price-panel](https://github.com/psam21/strc-price-panel) | — | **STRC price panel for the desktop.** A lightweight panel that surfaces live STRC market prices right on your desktop. |
-| 6 | [biffes26](https://github.com/psam21/biffes26) | [biffes26.vercel.app](https://biffes26.vercel.app) | **⭐ Most-starred original project.** A Progressive Web App for the 17th Bengaluru International Film Festival (Jan 30 – Feb 6, 2026) — film discovery across 13 categories, an 8-day multi-venue schedule, watchlists with shareable 6-char codes, and a multi-source ratings aggregator (IMDb/RT/Metacritic/Letterboxd). Built with Next.js 16 + React 19 + Upstash Redis; local-first with cloud sync. |
-| 7 | [NostrForNomads](https://github.com/psam21/NostrForNomads) | [nostr.co.in](https://nostr.co.in) | **Nostr for Nomads.** A Nostr-native hub for travelers and communities — decentralized social for people on the move, live at nostr.co.in. |
-| 8 | [cb](https://github.com/psam21/cb) | [culturebridge.vercel.app](https://culturebridge.vercel.app/) | **Culture Bridge.** Preserving heritage & tradition by tying culture to Bitcoin + Lightning + Nostr — a living archive that rewards and sustains cultural work. |
-| 9 | [ipl26](https://github.com/psam21/ipl26) | [ipl26.vercel.app](https://ipl26.vercel.app) | **IPL 2026 — "The Grid".** The definitive view of all ten franchises: auction purse spent, top buys, squad composition (domestic/overseas), and title/top-4 probabilities — interactive and live at ipl26.vercel.app. |
-| 10 | [nrpc_workshop](https://github.com/psam21/nrpc_workshop) | — | **Nostr RPC workshop.** Hands-on material for building on Nostr's RPC surface — notes and code from a working session. |
-| 11 | 🔒 [Epoch Shield](https://github.com/psam21/nipees) | [epochshield.com](https://epochshield.com) | **One key, infinite identities.** A zero-knowledge, client-side encrypted identity system built on the NIP-EES spec — each passphrase derives a separate, compartmentalized identity (messages, groups, vault, mail) over Nostr. Crypto is **scrypt + NIP-44**, fully open source (AGPL). Coercion-resistant: a wrong passphrase opens a convincing decoy identity. Free forever for individuals. |
-| 12 | 🔒 [haiku](https://haiku-hour.vercel.app) | [haiku-hour.vercel.app](https://haiku-hour.vercel.app) | **A new haiku every hour.** A generative poetry engine publishing 283 haikus across 50+ categories — small, daily acts of making that keep the joy in building. |
+| 1 | 🔒 [Epoch Shield](https://github.com/psam21/nipees) | [epochshield.com](https://epochshield.com) | **One key, infinite identities.** A zero-knowledge, client-side encrypted identity system built on the NIP-EES spec — each passphrase derives a separate, compartmentalized identity (messages, groups, vault, mail) over Nostr. Crypto is **scrypt + NIP-44**, fully open source (AGPL). Coercion-resistant: a wrong passphrase opens a convincing decoy identity. Free forever for individuals. |
+| 2 | [NIP-EES CORE](https://github.com/psam21/nip-ees-core) | — | **NIP-EEs core library & spec.** The reference implementation and specification behind Epoch Shield — encrypted, epoch-scoped event sharing for Nostr (private groups and messages that stay confidential and expire cleanly). |
+| 3 | [NS](https://github.com/psam21/ns) | [nostr.ltd](https://nostr.ltd) | **Nostr infrastructure (Go).** A public Nostr relay and companion Blossom media service with PostgreSQL-backed storage, protocol tooling, and an operator dashboard. |
+| 4 | [Biffes](https://github.com/psam21/biffes26) | [biffes26.vercel.app](https://biffes26.vercel.app) | **⭐ Most-starred original project.** A Progressive Web App for the 17th Bengaluru International Film Festival (Jan 30 – Feb 6, 2026) — film discovery across 13 categories, an 8-day multi-venue schedule, watchlists with shareable 6-char codes, and a multi-source ratings aggregator (IMDb/RT/Metacritic/Letterboxd). Built with Next.js 16 + React 19 + Upstash Redis; local-first with cloud sync. |
+| 5 | [IPL](https://github.com/psam21/ipl26) | [ipl26.vercel.app](https://ipl26.vercel.app) | **IPL 2026 — "The Grid".** The definitive view of all ten franchises: auction purse spent, top buys, squad composition (domestic/overseas), and title/top-4 probabilities — interactive and live at ipl26.vercel.app. |
+| 6 | [Culture Bridge](https://github.com/psam21/cb) | [culturebridge.vercel.app](https://culturebridge.vercel.app/) | **Culture Bridge.** Preserving heritage & tradition by tying culture to Bitcoin + Lightning + Nostr — a living archive that rewards and sustains cultural work. |
+| 7 | [Nostr for Nomads](https://github.com/psam21/NostrForNomads) | [nostr.co.in](https://nostr.co.in) | **Nostr for Nomads.** A Nostr-native hub for travelers and communities — decentralized social for people on the move, live at nostr.co.in. |
+| 8 | 🔒 [Haiku](https://haiku-hour.vercel.app) | [haiku-hour.vercel.app](https://haiku-hour.vercel.app) | **A new haiku every hour.** A generative poetry engine publishing 283 haikus across 50+ categories — small, daily acts of making that keep the joy in building. |
 
 ### 🍴 Forks & Contributions
 
-All 12 public forks currently visible on GitHub, ordered by recent activity.
+Forks, contributions, and additional public projects.
 
 | # | Project | Live Demo / Listing | What it does |
 |---|---------|-----------|--------------|
@@ -67,6 +63,10 @@ All 12 public forks currently visible on GitHub, ordered by recent activity.
 | 10 | 🍴 [gnome-shell-batime](https://github.com/psam21/gnome-shell-batime) | [GNOME Extensions](https://extensions.gnome.org/extension/1475/battery-time/) | Shows time until fully charged or discharged instead of battery percentage |
 | 11 | 🍴 [Logo-Activities](https://github.com/psam21/Logo-Activities) | [GNOME Extensions](https://extensions.gnome.org/extension/5928/logo-activities/) | Customizable Activities icon and label with optional workspace indicators |
 | 12 | 🍴 [btcpayserver](https://github.com/psam21/btcpayserver) | [btcpayserver.org](https://btcpayserver.org/) | Free, open-source, self-hosted Bitcoin payment processor |
+| 13 | [status-area-horizontal-spacing](https://github.com/psam21/status-area-horizontal-spacing-gnome-shell-extension) | [GNOME Extensions](https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/) | **Status Area Horizontal Spacing.** A GNOME Shell extension with a configurable 0-12px slider for tightening top-panel status indicators |
+| 14 | [background-logo-extension](https://github.com/psam21/background-logo-extension) | [GNOME Extensions](https://extensions.gnome.org/extension/7364/background-logo/) | **Background Logo.** A GNOME Shell 51 extension for placing configurable light and dark logos over the desktop background |
+| 15 | [strc-price-panel](https://github.com/psam21/strc-price-panel) | — | **STRC price panel for the desktop.** A lightweight panel that surfaces live STRC market prices right on your desktop |
+| 16 | [nrpc_workshop](https://github.com/psam21/nrpc_workshop) | — | **Nostr RPC workshop.** Hands-on material for building on Nostr's RPC surface — notes and code from a working session |
 
 ---
 
