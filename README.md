@@ -34,7 +34,7 @@ I'm **Sam P** — a developer who's been at this since computers showed up in my
 ### ✨ Original Work
 A focused set of active projects and public demos.
 
-| # | Project | Live Demo / Listing | What it does |
+| # | Repo | Live URL | What it does |
 |---|---------|-----------|--------------|
 | 1 | 🔒 [Epoch Shield](https://github.com/psam21/nipees) | [epochshield.com](https://epochshield.com) | **One key, infinite identities.** A zero-knowledge, client-side encrypted identity system built on the NIP-EES spec — each passphrase derives a separate, compartmentalized identity (messages, groups, vault, mail) over Nostr. Crypto is **scrypt + NIP-44**, fully open source (AGPL). Coercion-resistant: a wrong passphrase opens a convincing decoy identity. Free forever for individuals. |
 | 2 | [NIP-EES CORE](https://github.com/psam21/nip-ees-core) | — | **NIP-EEs core library & spec.** The reference implementation and specification behind Epoch Shield — encrypted, epoch-scoped event sharing for Nostr (private groups and messages that stay confidential and expire cleanly). |
@@ -49,7 +49,7 @@ A focused set of active projects and public demos.
 
 Forks, contributions, and additional public projects.
 
-| # | Project | Live Demo / Listing | What it does |
+| # | Repo | Live URL | What it does |
 |---|---------|-----------|--------------|
 | 1 | 🍴 [SeedLottery](https://github.com/psam21/SeedLottery) | — | Physical BIP39 seed-generation system using 1,024 3D-printed tokens and a Python generator |
 | 2 | 🍴 [weather-oclock](https://github.com/psam21/weather-oclock) | [GNOME Extensions](https://extensions.gnome.org/extension/5470/weather-oclock/) | Displays current weather in the pill beside the GNOME clock |
