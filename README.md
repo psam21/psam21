@@ -49,31 +49,46 @@ I'm **Sam P** — a developer who's been at this since computers showed up in my
 
 ### 🍴 Forks & Contributions
 
+Selected work across Bitcoin, Nostr, GNOME, and language tooling.
+
 | # | Project | Live Demo | What it does |
 |---|---------|-----------|--------------|
-| 1 | 🍴 [btcpayserver](https://github.com/psam21/btcpayserver) | [btcpayserver.org](https://btcpayserver.org/) | Self-hosted Bitcoin payment processor |
-| 2 | 🍴 [snort](https://github.com/psam21/snort) | [phoenix.social](https://phoenix.social) | Feature-packed Nostr web UI |
-| 3 | 🍴 [gnome-shell-bitcoin-markets](https://github.com/psam21/gnome-shell-bitcoin-markets) | — | GNOME extension: live BTC & crypto rates |
-| 4 | 🍴 [tray-icons-reloaded](https://github.com/psam21/tray-icons-reloaded) | — | GNOME extension: bring back tray icons |
-| 5 | 🍴 [weather-oclock](https://github.com/psam21/weather-oclock) | — | GNOME extension: weather in the clock |
-| 6 | 🍴 [gnome-shell-batime](https://github.com/psam21/gnome-shell-batime) | — | GNOME extension: battery time remaining |
-| 7 | 🍴 [IndicatorVisibilityTool](https://github.com/psam21/IndicatorVisibilityTool) | — | GNOME extension: indicator visibility |
-| 8 | 🍴 [Speech-Dataset-in-Hindi-Language](https://github.com/psam21/Speech-Dataset-in-Hindi-Language) | — | Hindi speech dataset |
+| 1 | 🍴 [btcpayserver](https://github.com/psam21/btcpayserver) | [btcpayserver.org](https://btcpayserver.org/) | Self-hosted Bitcoin payments and merchant tools |
+| 2 | 🍴 [snort](https://github.com/psam21/snort) | [phoenix.social](https://phoenix.social) | Fast, feature-rich Nostr web client |
+| 3 | 🍴 [gnome-shell-bitcoin-markets](https://github.com/psam21/gnome-shell-bitcoin-markets) | — | GNOME Shell extension for live BTC and crypto prices |
+| 4 | 🍴 [tray-icons-reloaded](https://github.com/psam21/tray-icons-reloaded) | — | Restores legacy tray icons in GNOME Shell |
+| 5 | 🍴 [weather-oclock](https://github.com/psam21/weather-oclock) | — | Adds weather information to the GNOME clock |
+| 6 | 🍴 [gnome-shell-batime](https://github.com/psam21/gnome-shell-batime) | — | Shows estimated battery time remaining in GNOME Shell |
+| 7 | 🍴 [IndicatorVisibilityTool](https://github.com/psam21/IndicatorVisibilityTool) | — | Controls GNOME Shell indicator visibility |
+| 8 | 🍴 [Speech-Dataset-in-Hindi-Language](https://github.com/psam21/Speech-Dataset-in-Hindi-Language) | — | Hindi speech data for language and recognition tooling |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
+  <strong>Languages</strong><br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>Web & Runtime</strong><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>Infrastructure & Protocols</strong><br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Nostr-F7931A?style=flat-square&logo=nostr&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
 </p>
@@ -103,8 +118,11 @@ I'm **Sam P** — a developer who's been at this since computers showed up in my
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/psam21/psam21/output/github-contribution-grid-snake.svg" alt="Snake animation (light)" />
-<img src="https://raw.githubusercontent.com/psam21/psam21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark)" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/psam21/psam21/main/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/psam21/psam21/main/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/psam21/psam21/main/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
 
 </div>
 
