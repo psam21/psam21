@@ -27,9 +27,60 @@ I'm **Sam P** — a developer who's been at this since computers showed up in my
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-> 🔒 private repo (live demo public) · 🍴 fork. **Click any Live Demo — no need to fork.**
+<p align="left">
+  <strong>Languages</strong><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>Web & Runtime</strong><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>Infrastructure & Protocols</strong><br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nostr-F7931A?style=flat-square&logo=nostr&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
+</p>
+
+---
+
+## 🌐 Find Me
+
+<p align="left">
+  <a href="https://github.com/psam21"><img src="https://img.shields.io/badge/GitHub-psam21-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://nostr.co.in"><img src="https://img.shields.io/badge/Nostr-nostr.co.in-F7931A?style=for-the-badge&logo=nostr&logoColor=white" /></a>
+  <a href="https://primal.net/p/npub1sjtntkr698y6cpy42cu4lxvpc46rlw463u2j6a7ltuhxjryecxjs4xfet8"><img src="https://img.shields.io/badge/Primal-npub1sjt...xfet8-F7931A?style=for-the-badge&logo=nostr&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚡ Support My Work
+
+If you find my open-source work useful, you can support it with a Lightning tip:
+
+```text
+⚡ yellowbobcat7@primal.net
+```
+
+Or find me on Nostr: `npub1sjtntkr698y6cpy42cu4lxvpc46rlw463u2j6a7ltuhxjryecxjs4xfet8`
+
+---
+
+## 🚀 Featured Projects
 
 ### ✨ Original Work
 A focused set of active projects and public demos.
@@ -70,56 +121,6 @@ Forks, contributions, and additional public projects.
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <strong>Languages</strong><br/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
-</p>
-
-<p align="left">
-  <strong>Web & Runtime</strong><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-</p>
-
-<p align="left">
-  <strong>Infrastructure & Protocols</strong><br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nostr-F7931A?style=flat-square&logo=nostr&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
-</p>
-
----
-
-## 📊 By the Numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=psam21&show_icons=true&theme=radical&title_color=F7931A&icon_color=F7931A&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psam21&layout=compact&theme=radical&title_color=F7931A&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=psam21&theme=radical&hide_border=true&background=0d1117&stroke=F7931A&ring=F7931A&fire=F7931A&currStreakLabel=F7931A" height="180"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=psam21&theme=algolia&title_color=F7931A&icon_color=F7931A&bg_color=0d1117&hide_border=true&column=7&margin-w=10" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -131,28 +132,6 @@ Forks, contributions, and additional public projects.
 </picture>
 
 </div>
-
----
-
-## 🌐 Find Me
-
-<p align="left">
-  <a href="https://github.com/psam21"><img src="https://img.shields.io/badge/GitHub-psam21-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://nostr.co.in"><img src="https://img.shields.io/badge/Nostr-nostr.co.in-F7931A?style=for-the-badge&logo=nostr&logoColor=white" /></a>
-  <a href="https://primal.net/p/npub1sjtntkr698y6cpy42cu4lxvpc46rlw463u2j6a7ltuhxjryecxjs4xfet8"><img src="https://img.shields.io/badge/Primal-npub1sjt...xfet8-F7931A?style=for-the-badge&logo=nostr&logoColor=white" /></a>
-</p>
-
----
-
-## ⚡ Support My Work
-
-If you find my open-source work useful, you can support it with a Lightning tip:
-
-```text
-⚡ yellowbobcat7@primal.net
-```
-
-Or find me on Nostr: `npub1sjtntkr698y6cpy42cu4lxvpc46rlw463u2j6a7ltuhxjryecxjs4xfet8`
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F7931A,100:7A3B00&height=120&section=footer&text=Built%20with%20%E2%9A%A1%20and%20three%20decades%20of%20patience&fontColor=ffffff&fontSize=16" alt="footer" />
