@@ -51,19 +51,19 @@ I'm **Sam P** — a developer who's been at this since computers showed up in my
 
 All 12 public forks currently visible on GitHub, ordered by recent activity.
 
-| # | Project | Live Demo | What it does |
+| # | Project | Live Demo / Listing | What it does |
 |---|---------|-----------|--------------|
 | 1 | 🍴 [SeedLottery](https://github.com/psam21/SeedLottery) | — | Physical BIP39 seed-generation system using 1,024 3D-printed tokens and a Python generator |
-| 2 | 🍴 [weather-oclock](https://github.com/psam21/weather-oclock) | — | Displays current weather in the pill beside the GNOME clock |
+| 2 | 🍴 [weather-oclock](https://github.com/psam21/weather-oclock) | [GNOME Extensions](https://extensions.gnome.org/extension/5470/weather-oclock/) | Displays current weather in the pill beside the GNOME clock |
 | 3 | 🍴 [snort](https://github.com/psam21/snort) | [phoenix.social](https://phoenix.social) | Feature-packed Nostr web UI |
 | 4 | 🍴 [Speech-Dataset-in-Hindi-Language](https://github.com/psam21/Speech-Dataset-in-Hindi-Language) | — | Hindi speech data for language and recognition tooling |
-| 5 | 🍴 [tray-icons-reloaded](https://github.com/psam21/tray-icons-reloaded) | — | Restores tray icons to the GNOME top panel with additional features |
-| 6 | 🍴 [IndicatorVisibilityTool](https://github.com/psam21/IndicatorVisibilityTool) | — | Controls the visibility of Quick Settings indicators in GNOME Shell |
+| 5 | 🍴 [tray-icons-reloaded](https://github.com/psam21/tray-icons-reloaded) | [GNOME Extensions](https://extensions.gnome.org/extension/2890/tray-icons-reloaded/) | Restores tray icons to the GNOME top panel with additional features |
+| 6 | 🍴 [IndicatorVisibilityTool](https://github.com/psam21/IndicatorVisibilityTool) | [GNOME Extensions](https://extensions.gnome.org/extension/7817/quicksettings-indicator-visibility-tool/) | Controls the visibility of Quick Settings indicators in GNOME Shell |
 | 7 | 🍴 [gnome-shell-extension-net-speed](https://github.com/psam21/gnome-shell-extension-net-speed) | [GNOME Extensions](https://extensions.gnome.org/extension/7367/net-speed-indicator/) | Shows download and upload speed directly in the top panel |
-| 8 | 🍴 [gnome-compact-top-bar](https://github.com/psam21/gnome-compact-top-bar) | — | Compact, transparent top bar for the GNOME desktop |
-| 9 | 🍴 [gnome-shell-bitcoin-markets](https://github.com/psam21/gnome-shell-bitcoin-markets) | — | GNOME Shell extension for live Bitcoin and crypto market rates |
-| 10 | 🍴 [gnome-shell-batime](https://github.com/psam21/gnome-shell-batime) | — | Shows time until fully charged or discharged instead of battery percentage |
-| 11 | 🍴 [Logo-Activities](https://github.com/psam21/Logo-Activities) | — | Customizable Activities icon and label with optional workspace indicators |
+| 8 | 🍴 [gnome-compact-top-bar](https://github.com/psam21/gnome-compact-top-bar) | [GNOME Extensions](https://extensions.gnome.org/extension/5669/compact-top-bar/) | Compact, transparent top bar for the GNOME desktop |
+| 9 | 🍴 [gnome-shell-bitcoin-markets](https://github.com/psam21/gnome-shell-bitcoin-markets) | [GNOME Extensions](https://extensions.gnome.org/extension/648/bitcoin-markets/) | GNOME Shell extension for live Bitcoin and crypto market rates |
+| 10 | 🍴 [gnome-shell-batime](https://github.com/psam21/gnome-shell-batime) | [GNOME Extensions](https://extensions.gnome.org/extension/1475/battery-time/) | Shows time until fully charged or discharged instead of battery percentage |
+| 11 | 🍴 [Logo-Activities](https://github.com/psam21/Logo-Activities) | [GNOME Extensions](https://extensions.gnome.org/extension/5928/logo-activities/) | Customizable Activities icon and label with optional workspace indicators |
 | 12 | 🍴 [btcpayserver](https://github.com/psam21/btcpayserver) | [btcpayserver.org](https://btcpayserver.org/) | Free, open-source, self-hosted Bitcoin payment processor |
 
 ---
